@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your solution URL here]
-- Live Site URL: [Add your live site URL here]
+- Solution URL: [https://github.com/she-is-sarah/bentogrid]
+- Live Site URL: []
 
 ## My Process
 
