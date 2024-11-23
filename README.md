@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/she-is-sarah/bentogrid]
-- Live Site URL: []
+- Live Site URL: [https://she-is-sarah.github.io/bentogrid/]
 
 ## My Process
 
